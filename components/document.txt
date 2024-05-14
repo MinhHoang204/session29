@@ -1,0 +1,6 @@
+- State
+  + Dùng để quản lí trạng thái dữ liệu bên trong component
+  + Phạm vi: Bên trong một component 
+- Prop
+  + Dùng để truyền dữ liệutuwf component cha xuống component con
+  + Phạm vi: Giữa các component có mối quan hệ cha con  
